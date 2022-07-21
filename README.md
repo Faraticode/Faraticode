@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faraticode
 - 👀 I’m interested in ... programming & coding.
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...HTML and CSS
+- 🌱 I’m currently learning ... React JavaScript
+- 💞️ I’m looking to collaborate on ...HTML, Javascript and CSS
 - 📫 How to reach me ...faraticode@gmail.com
 
 <!---
