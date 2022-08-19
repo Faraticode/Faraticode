@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faraticode
 - 👀 I’m interested in ... programming & coding.
-- 🌱 I’m currently learning ... React JavaScript
+- 🌱 I’m currently learning ... PHP and MySql
 - 💞️ I’m looking to collaborate on ...HTML, Javascript and CSS
 - 📫 How to reach me ...faraticode@gmail.com
 
